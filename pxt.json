@@ -1,0 +1,20 @@
+{
+    "name": "KSB048",
+    "version": "0.2.0",
+    "description": "Extension for KAISE KSRobot KSB048 4ch Motor Board",
+    "license": "MIT", 
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "_locales/zh/KSB048-strings.json" 
+        
+    ],
+    "testFiles": [
+      "tests.ts"
+    ],
+    "public": true
+}
