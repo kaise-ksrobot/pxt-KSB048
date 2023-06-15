@@ -12,6 +12,7 @@ namespace KSB048 {
     const LED0_ON_L = 0x06
 
     
+    
     export enum ServoNum {
         S0 = 0,
         S1 = 1,
